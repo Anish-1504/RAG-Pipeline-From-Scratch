@@ -1,0 +1,48 @@
+ Advanced Python Techniques
+Python provides powerful tools like comprehensions, lambdas, map, filter, reduce and recursion to handle complex logic efficiently. These help write concise and readable code for a variety of tasks.
+
+List Comprehension
+Lambda Operator
+Filter
+Reduce
+Map
+Recursive Functions
+Regular Expressions
+Regular expressions (regex) provide a way to search, match and manipulate text based on patterns. They are invaluable for data validation, parsing logs, extracting information, etc.
+
+Advanced Regular Expressions
+Check whether a string starts and ends with the same character or not
+Password validation in Python
+Object Oriented Programming
+Python’s OOP features such as classes, inheritance, encapsulation and polymorphism help create reusable, modular and maintainable code for complex applications.
+
+Class and Object in Python
+Inheritance 
+Encapsulation
+Polymorphism
+Data Abstaraction
+Iterables, Iterators and Generators
+Understanding iterables, iterators and generators is key to working efficiently with large datasets and streams of data. They enable lazy evaluation and memory-efficient looping essential for scalable Python programs.
+
+Iterators in Python
+Generators in Python
+Closures and Decorators
+Closures allow functions to capture and remember their environment, while decorators provide a clean syntax for modifying or extending behavior of functions or methods.
+
+Closures
+Decorators
+Monkey patching
+Memory Management
+Concepts like garbage collection, reference counting, mutable vs immutable objects and deep vs shallow copying are crucial for writing optimized, resource-efficient Python code.
+
+Memory Management
+Dynamic typing
+Mutable & Immutable objects
+Memory Profiling
+Deep Copy vs Shallow Copy
+Optimization Tips for Python Code
+Testing
+Testing is an essential phase of software development that ensures your code works as expected and prevents regressions.
+
+Testing with Pytest
+
