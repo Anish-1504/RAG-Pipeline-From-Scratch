@@ -7,7 +7,13 @@ authors = [
     { name = "Anish Patil", email = "123080347+Anish-1504@users.noreply.github.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "langchain>=1.4.6",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.12",
+    "pymupdf>=2.0",
+    "pypdf>=6.21.2",
+]
 
 [project.scripts]
 project-1 = "project_1:main"
